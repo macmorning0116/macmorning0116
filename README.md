@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/spring jpa-색상?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logoColor=white">
 
 </br>
 
