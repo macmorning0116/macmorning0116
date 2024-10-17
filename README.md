@@ -25,7 +25,7 @@
 
 
 
-<br><hr><br>
+<br><br>
 
 ![Shortood's GitHub stats](https://github-readme-stats.vercel.app/api?username=macmorning0116&show_icons=true&theme=tokyonight)
 <br>
