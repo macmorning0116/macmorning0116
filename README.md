@@ -1,5 +1,5 @@
 <div align = center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=150&section=header&text=%20Yechan Kim😄&fontSize=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=150&section=header&text=Yechan Kim😄&fontSize=60"/>
 
 
 <div align=center><h1>📚 STACKS</h1></div>
