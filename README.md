@@ -31,14 +31,20 @@
 
 
 <br><br>
-
-![Shortood's GitHub stats](https://github-readme-stats.vercel.app/api?username=macmorning0116&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macmorning0116&layout=compact&theme=tokyonight)
-<br>
-<br>
+<div align="center">
+  <div style="display: inline-block;">
+    ![Shortood's GitHub stats](https://github-readme-stats.vercel.app/api?username=macmorning0116&show_icons=true&theme=tokyonight)
+  </div>
+  <div style="display: inline-block;">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macmorning0116&layout=compact&theme=tokyonight)
+  </div>
+</div>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=200&section=footer)
 </div>
+
+
+
+
 <!--
 **Shortood/Shortood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
