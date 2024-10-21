@@ -22,15 +22,17 @@
 #### Git stats
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmacmorning0116%2Fhit-counter&count_bg=%23BDBEBE&title_bg=%23272727&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/macmorning0116)
 
-<table><tr><td valign="top" width="50%">
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+  <tr>
+    <td valign="top" style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=macmorning0116&show_icons=true&count_private=true&hide_border=true" align="left" style="max-width: 100%; height: auto;" />
+    </td>
+    <td valign="top" style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macmorning0116&hide_border=true&layout=compact" align="left" style="max-width: 100%; height: auto;" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=macmorning0116&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macmorning0116&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 #### Experience
 * Programmers Back-end Dev Course 1st (2024.07~ing)
