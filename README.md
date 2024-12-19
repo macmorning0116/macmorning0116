@@ -35,4 +35,4 @@
 
 
 ### Experience
-* Programmers Back-end Dev Course 1st (2024.07~ing)
+* Programmers Back-end Dev Course 1st (2024.07 ~ 2024.12)
