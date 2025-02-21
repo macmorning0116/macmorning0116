@@ -36,6 +36,5 @@
 
 ### Experience
 * Programmers Back-end Dev Course 1st (2024.07 ~ 2024.12)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ekffuqhwk)](https://solved.ac/profile/ekffuqhwk)
