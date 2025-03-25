@@ -20,7 +20,7 @@
 
 
 ### Git stats
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmacmorning0116%2Fhit-counter&count_bg=%23BDBEBE&title_bg=%23272727&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/macmorning0116)
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmacmorning0116%2Fhit-counter&count_bg=%23BDBEBE&title_bg=%23272727&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/macmorning0116)-->
 
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
