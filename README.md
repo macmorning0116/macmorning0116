@@ -26,7 +26,7 @@
 - JavaMailSender와 Thymeleaf를 이용한 **SMTP 기반 이메일 인증**
 - OAuth 2.0 + JWT를 활용한 **소셜 로그인** 개발 
 - React 기반 **홈 화면, 회원가입, 로그인 UI 개발**
-- 🔗 [GitHub Repo](https://github.com/J1P5/Meerket__BE)
+- 🔗 [GitHub Repo](https://github.com/prgrms-be-devcourse/NBE1_2_Team05)
 
 #### 미어켓 (직거래 기반 중고물품 블라인드 입찰 서비스)
 - 서비스 장애 복구 및 입찰 마감 자동화 프로세스 설계 및 구현 (**Quartz Scheduler 활용**)
@@ -34,7 +34,7 @@
 - STOMP + Redis + MongoDB + FCM을 활용한 **실시간 채팅 시스템** 설계 및 구현
 - Docker Compose를 이용한 **운영 환경 구성**
 - **멀티 모듈 구조**로 확장성과 유지보수성 강화
-- 🔗 [GitHub Repo](https://github.com/prgrms-be-devcourse/NBE1_2_Team05)
+- 🔗 [GitHub Repo](https://github.com/J1P5/Meerket__BE)
 
 ### Git stats
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmacmorning0116%2Fhit-counter&count_bg=%23BDBEBE&title_bg=%23272727&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/macmorning0116)-->
