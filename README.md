@@ -40,7 +40,7 @@
 - [Quartz라이브러리 도입기](https://meerket.tistory.com/6)
 - [EmbeddedRedis 적용하기](https://constant1601.tistory.com/12)
 - [동시성과 멱등성을 보장하는 입찰 시스템](https://github.com/J1P5/Meerket__BE/pull/156)
-- [Redis를 이용하여 실시간 인기 공연 제공하기](https://constant1601.tistory.com/35)
+- [Redis를 이용하여 조회수 기반 최근 인기 공연 제공하기](https://constant1601.tistory.com/35)
 
 
 ### Git stats
