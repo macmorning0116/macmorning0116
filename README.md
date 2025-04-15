@@ -41,6 +41,7 @@
 - [Quartz라이브러리 도입기](https://meerket.tistory.com/6), [(Quartz 초기 설정)](https://github.com/J1P5/Meerket__BE/pull/82), [(Quartz Job)](https://github.com/J1P5/Meerket__BE/pull/87)
 - [EmbeddedRedis 적용하기](https://constant1601.tistory.com/12)
 - [Redis를 이용한 조회수 기반 최근 인기 공연 조회](https://constant1601.tistory.com/35)
+- [ThreadLocal 로그 추적기 동시성 제어](https://constant1601.tistory.com/64)
 
 
 ### Git stats
