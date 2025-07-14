@@ -42,13 +42,6 @@
 - 🔗 [GitHub Repo](https://github.com/J1P5/Meerket__BE)
 </details>
 
-#### post & link
-- [동시성과 멱등성을 보장하는 입찰 시스템](https://github.com/J1P5/Meerket__BE/pull/156)
-- [Quartz라이브러리 도입기](https://meerket.tistory.com/6), [(Quartz 초기 설정)](https://github.com/J1P5/Meerket__BE/pull/82), [(Quartz Job)](https://github.com/J1P5/Meerket__BE/pull/87)
-- [EmbeddedRedis 적용하기](https://constant1601.tistory.com/12)
-- [Redis를 이용한 조회수 기반 최근 인기 공연 조회](https://constant1601.tistory.com/35)
-- [ThreadLocal 로그 추적기 동시성 제어](https://constant1601.tistory.com/64)
-- [WebSocket HTTPS Connection 문제 해결](https://constant1601.tistory.com/49)
 
 ### Git stats
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmacmorning0116%2Fhit-counter&count_bg=%23BDBEBE&title_bg=%23272727&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/macmorning0116)-->
