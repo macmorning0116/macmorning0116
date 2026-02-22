@@ -36,7 +36,13 @@
 - **멀티 모듈 구조**로 확장성과 유지보수성 강화
 - 🔗 GitHub Repo: https://github.com/J1P5/Meerket__BE
 
-
+#### AI 낚시 포인트 추천 서비스
+- GitHub Actions, GCHR, Docker를 활용한 **CI/CD 파이프라인 구축**
+- **Grafana Cloud 기반 로그/메트릭 관측 시스템 구축**(EC2 리소스 사용량 최소화로 추가 과금x)
+- - 주요 비즈니스 로직 Junit + Mockito를 활용한 **테스크 코드 작성**(Line Coverage 100%)
+- 실시간 위치 기반 날씨 API + 사진 데이터 + GPT API를 활용한 포인트 및 채비 추천
+- 네이버 지도 API 연동
+- 🔗 GitHub Repo: https://github.com/macmorning0116/my-fishing-server
 
 
 
