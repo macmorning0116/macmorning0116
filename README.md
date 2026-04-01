@@ -19,7 +19,7 @@
 
 ### Project
 <details>
-  <summary><b>AI 낚시 포인트 추천 서비스</b></summary>
+  <summary><b>Ai-Fishing (AI 낚시 포인트 추천 및 조행 게시글 검색 서비스)</b></summary>
 
   - Playwright 기반 크롤러를 구축해 **네이버 카페 조행 데이터 수집 파이프라인 설계**
   - 게시판 3종 데이터를 **RDS(PostgreSQL) 원본 저장 + OpenSearch 검색 인덱스** 구조로 분리 적재
