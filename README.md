@@ -26,17 +26,14 @@
   - S3와 Amazon OpenSearch Service custom package를 활용한 **동의어 사전 구축**
   - `bass ↔ 배스`, `프리 ↔ 프리리그`, `스베 ↔ 스윔베이트` 등 **영문/국문 혼용 표현과 낚시 은어·축약어 검색 지원**
   - 로그 집계, 메일 알림, 중복 기준 종료 조건을 적용한 **크롤링 운영 안정화**
-  - 커뮤니티 피드 **게시글/댓글/좋아요/신고 CRUD** 
-  - 카카오/구글 **OAuth 2.0 소셜 로그인** + JWT Access Token + HttpOnly Refresh Token 쿠키 인증
+  - **Grafana Cloud 기반 로그/메트릭 관측 시스템 구축** (EC2 리소스 사용량 월 고정 비용 18.99 달러 감축)
   - 피드 목록 **경량 DTO + JOIN FETCH N+1 해결** (23쿼리 → 2쿼리), 복합 인덱스 적용
   - **커서 기반 페이지네이션** (게시글/댓글/검색), Caffeine 캐시 (날씨/지오코딩 5분 TTL)
   - Thumbnailator 기반 **썸네일 자동 생성** (400px) + S3 **CompletableFuture 병렬 업로드**
-  - 프론트엔드 **업로드 전 이미지 리사이즈** (최대 1920px, JPEG 85%) 적용
   - **TanStack Query v5 도입** — API 캐싱, 옵티미스틱 업데이트, 탭 전환 시 즉시 표시
   - Spotless + **Checkstyle 도입** (Google Style 기반 코드 컨벤션 자동 검사)
   - Flyway DB 마이그레이션 (V1~V6), **PostGIS** 공간 데이터 지원
   - GitHub Actions, GHCR, Docker를 활용한 **CI/CD 파이프라인 구축**
-  - **Grafana Cloud 기반 로그/메트릭 관측 시스템 구축** (EC2 리소스 사용량 최소화로 추가 과금x)
   - JUnit + Mockito를 활용한 **테스트 코드 작성** (Line Coverage 91.11%)
   - 실시간 위치 기반 날씨 API + 사진 데이터 + GPT API를 활용한 포인트 및 채비 추천
   - 네이버 지도 API 연동
